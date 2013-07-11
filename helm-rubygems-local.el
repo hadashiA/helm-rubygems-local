@@ -76,4 +76,3 @@
   ))
 
 (provide 'helm-rubygems-local)
-;;; helm-rubygems-local.el end here 
