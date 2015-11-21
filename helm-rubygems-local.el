@@ -22,6 +22,8 @@
 
 ;;; Code:
 
+(require 'helm)
+
 (defvar helm-c-source-rubygems-local
   '((name . "rubygems")
     (candidates-in-buffer)
